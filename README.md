@@ -3,6 +3,6 @@ Sends a post request to a website to complete a form, but like alot of times
 
 URL in code is only an example, please do not do anything malicious with this code!
 
-need to add a names list for it to work. In the same directory create names.json and lastnames.json or edit the code to use diffrent json arrays.
+feel free to use this in whatever way you want, fork it, duplicate it, whatever. I am not liable for any trouble you get in when using this code!!!! As is product..
 
 Hack for good
